@@ -1,1 +1,3 @@
-print(input("give an number and ill find its square root!"))
+import math
+n = float(input("Number: "))
+print(math.sqrt(n))
